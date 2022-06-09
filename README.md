@@ -2,18 +2,20 @@
 
 # Project Name
 
-> Description the project.
+> In this project we recreated portfolio page using Bootstrap Framework 
 
+# Learning Objectives
+- Use Bootstrap framework for layout and alignment of elements.
+- Add breakpoints for responsive design. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- Bootstrap
 
-## Live Demo (if available)
+## Live Demo ()
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://krishnabot.github.io/CSS-Framework/)
 
 
 ## Getting Started
@@ -24,18 +26,6 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 ## Author
 
@@ -45,6 +35,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@last_matrix](https://twitter.com/last_matrix)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/krishna-prasad-acharya-3596bb130/)
 
+# Collaborator
+
+👤 **Erick Hans Martinez**
+- GitHub: [@erickhansx](https://github.com/erickhansx)
+- Twitter: [@TheErickHans](https://twitter.com/TheErickHans)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/erick-hans-858382231/)
 
 ## 🤝 Contributing
 
